@@ -4,4 +4,4 @@ A new Android Studio project.
 
 Mencoba menginstall Android Studio, dan menjalankan Aplikasi untuk menampilkan Hello World!
 
-![Screenshot Hasil Program](images/image_satu.png)
+![Screenshot Hasil Program](image/image_satu.png)
